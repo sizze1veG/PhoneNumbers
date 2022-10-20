@@ -1,0 +1,14 @@
+E:\sizze1veG\c++\kursach\kursach\bin\Debug\kursach.exe.config
+E:\sizze1veG\c++\kursach\kursach\bin\Debug\kursach.exe
+E:\sizze1veG\c++\kursach\kursach\bin\Debug\kursach.pdb
+E:\sizze1veG\c++\kursach\kursach\obj\Debug\Картотека абонентов.csproj.AssemblyReference.cache
+E:\sizze1veG\c++\kursach\kursach\obj\Debug\Картотека абонентов.csproj.SuggestedBindingRedirects.cache
+E:\sizze1veG\c++\kursach\kursach\obj\Debug\kursach.Info.resources
+E:\sizze1veG\c++\kursach\kursach\obj\Debug\kursach.Properties.Resources.resources
+E:\sizze1veG\c++\kursach\kursach\obj\Debug\Картотека абонентов.csproj.GenerateResource.cache
+E:\sizze1veG\c++\kursach\kursach\obj\Debug\Картотека абонентов.csproj.CoreCompileInputs.cache
+E:\sizze1veG\c++\kursach\kursach\obj\Debug\kursach.exe
+E:\sizze1veG\c++\kursach\kursach\obj\Debug\kursach.pdb
+E:\sizze1veG\c++\kursach\kursach\bin\Debug\MaterialSkin.dll
+E:\sizze1veG\c++\kursach\kursach\obj\Debug\Картотека абонентов.csproj.CopyComplete
+E:\sizze1veG\c++\kursach\kursach\obj\Debug\kursach.MainForm.resources
